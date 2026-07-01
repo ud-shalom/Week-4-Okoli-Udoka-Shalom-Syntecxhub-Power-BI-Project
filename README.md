@@ -1,6 +1,9 @@
 # Bank Loan Analysis
 This repository contains my end-to-end data analysis project completed for the SyntechHub internship. I analyzed bank loan data to derive actionable business insights and visualize performance metrics.
 
+## Dashboard Preview
+![Bank Loan Analysis Dashboard](WEEK%204%20SYNTECXHUB%20DASHBOARD.png)
+
 ## Tools Used
 Power BI: Used as the primary tool for data visualization, dashboard creation, and KPI development. This was critical for transforming raw data into an interactive and professional report.
 
@@ -13,7 +16,7 @@ KPI Development: I utilized DAX measures to calculate core performance indicator
 
 Data Visualization: I built an interactive Power BI dashboard to represent loan performance and customer insights visually.
 
-#### Insight Generation: I performed trend analysis by time, region, and customer segments to identify key factors affecting loan approval and repayment.
+Insight Generation: I performed trend analysis by time, region, and customer segments to identify key factors affecting loan approval and repayment.
 
 ## Key Findings & Recommendations
 ### Portfolio Strength
