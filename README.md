@@ -2,7 +2,7 @@
 This repository contains my end-to-end data analysis project completed for the SyntechHub internship. I analyzed bank loan data to derive actionable business insights and visualize performance metrics.
 
 ## Dashboard Preview
-![Bank Loan Analysis Dashboard](WEEK%204%20SYNTECXHUB%20DASHBOARD.png)
+![Bank Loan Analysis Dashboard](WEEK%204%20SYNTECXHUB%20DASHBOARD%20.png)
 
 ## Tools Used
 Power BI: Used as the primary tool for data visualization, dashboard creation, and KPI development. This was critical for transforming raw data into an interactive and professional report.
